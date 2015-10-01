@@ -1,0 +1,75 @@
+body {
+  line-height: 1.5;
+  color: white;
+  font-family: 'Lato', sans-serif;
+  /* Full Page Background Receipe */
+  background: url('../images/daft-sam.gif');
+  background-size: cover;
+  background-position: left;
+  background-attachment: fixed;
+
+}
+
+
+        }
+        .avatar {
+            border-radius: 50%;
+            padding: 3px;
+            float: left;
+        }
+        .timestamp {
+            font-size: 10pt;
+            color: DarkGrey;
+        }
+        .user {
+            color: #708090;
+            font-weight: bold;
+        }
+        .msgblock {
+            padding-bottom: 3px
+        }
+        .message {
+            float: clear;    
+            width: 98%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+
+.container {
+  width: 640px;
+  margin: 0 auto;
+  background: rgba(0,0,0,0.75);
+  opacity: 90%;
+  padding-left: 45px;
+  padding-bottom: 45px;
+  padding-top: 10px;
+  padding-right: 35px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: black;
+}
+
+h1 {
+	font-family: 'Rokkitt', serif;
+	font-size: 70px;
+	margin-bottom: -35px;
+}
+
+h2 {
+	font-size: 30px;
+  margin-top: 10px;
+}
+
+a {
+	color: #BF335B;
+	text-decoration: none;
+	padding-right: 3px;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	padding-right: 15px;
+}
+
